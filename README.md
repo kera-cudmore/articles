@@ -8,6 +8,7 @@ Articles written by me and published on various sites on the web. Articles are l
 
 | no. | Article | Codú | Dev.to | LinkedIn | Twitter | Notes |
 | :--- | :---: | :---: | :---: | :---: | :--- | :--- |
+| 10 | [Migrating your Heroku app to Railway](2023/10.md) | [✅](https://www.codu.co/articles/migrating-your-heroku-app-to-railway-vf9p3kid) | [✅](https://dev.to/keracudmore/migrating-your-heroku-app-to-railway-3b6e) ||||
 | 9 | [Using Obsidian: Coding Notes](2023/9.md) | [✅](https://www.codu.co/articles/using-obsidian-coding-notes-pqjyljkh) | [✅](https://dev.to/keracudmore/using-obsidian-coding-notes-4eja) |  |  | |
 | 8 | [Configure Spacing in VSCode by Language](2023/8.md) | [✅](https://www.codu.co/articles/configure-spacing-in-vscode-by-language-9rgmb0k4) | [✅](https://dev.to/keracudmore/configure-spacing-in-vscode-by-language-1goo_) | | ✅ | |
 | 7 | [8 Podcasts Perfect for Junior Developers](2023/7.md) | [✅](https://www.codu.co/articles/8-podcasts-perfect-for-junior-developers-390jsuhc) | [✅](https://dev.to/keracudmore/8-podcasts-perfect-for-junior-developers-2e1d) | ✅ | ✅ |  |
