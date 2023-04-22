@@ -10,13 +10,17 @@ Follow me on the following platforms:
 [<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to">](https://dev.to/keracudmore)
 [<img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode">](https://kera-cudmore.hashnode.dev/)
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin'>](https://www.linkedin.com/in/keracudmore/)
+[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter">](https://twitter.com/Keracudmore)
+
 
 
 ## 2023
 
 | no. | Article | Published |  Codú | Dev.to | Hashnode | LinkedIn | Twitter | Notes |
 | :--- | :---: | :---: | :---: |:---: | :---: | :--- | :--- | :--- |
-| 12 | [5 Weather APIs for a Rainy Day Project](2023/12.md) | 22-4-2023 | [✅]() | | | ✅ | ✅ | |
+| 14 | [What__is--BEM?]() | -4-2023 | []() | []() |[]() | | | |
+| 13 | [5 Joke APIs to tickle your fancy]() | -4-2023 | []() | []() | []() | | | |
+| 12 | [5 Weather APIs for a Rainy Day Project](2023/12.md) | 22-4-2023 | [✅](https://www.codu.co/articles/5-weather-apis-for-a-rainy-day-project-_pni6rxz) | [✅](https://dev.to/keracudmore/5-weather-apis-for-a-rainy-day-project-flg) | [✅](https://kera-cudmore.hashnode.dev/5-weather-apis-for-a-rainy-day-project) | ✅ | ✅ | |
 | 11 | [Podcasts for JavaScript & ReactJS Developers](2023/11.md) | 20-4-2023 | [✅](https://www.codu.co/articles/podcasts-for-javascript-reactjs-developers-mbjm0lby) | [✅](https://dev.to/keracudmore/podcasts-for-javascript-reactjs-developers-iod)| [✅](https://kera-cudmore.hashnode.dev/podcasts-for-javascript-reactjs-developers) | | | |
 | 10 | [Migrating your Heroku app to Railway](2023/10.md) | 18-4-2023 | [✅](https://www.codu.co/articles/migrating-your-heroku-app-to-railway-vf9p3kid) | [✅](https://dev.to/keracudmore/migrating-your-heroku-app-to-railway-3b6e) | [✅](https://kera-cudmore.hashnode.dev/migrating-your-heroku-app-to-railway)| | ✅ | |
 | 9 | [Using Obsidian: Coding Notes](2023/9.md) | 17-4-2023 | [✅](https://www.codu.co/articles/using-obsidian-coding-notes-pqjyljkh) | [✅](https://dev.to/keracudmore/using-obsidian-coding-notes-4eja) | [✅](https://kera-cudmore.hashnode.dev/using-obsidian-coding-notes) | | ✅ | |
