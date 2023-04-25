@@ -18,8 +18,8 @@ Follow me on the following platforms:
 
 | no. | Article | Published |  Codú | Dev.to | Hashnode | LinkedIn | Twitter | Notes |
 | :--- | :---: | :---: | :---: |:---: | :---: | :--- | :--- | :--- |
-|  | [What__is--BEM?]() | -4-2023 | []() | []() |[]() | | | |
 |  | [5 Joke APIs to tickle your fancy]() | -4-2023 | []() | []() | []() | | | |
+| 14 | [What__is--BEM?](2023/14.md) | 25-4-2023 | [✅](https://www.codu.co/articles/what__is-bem-lqn4owbs) | [✅](https://dev.to/keracudmore/whatis-bem-4215) |[✅](https://kera-cudmore.hashnode.dev/whatis-bem) | ✅ | ✅ | |
 | 13 | [Learn More About GitHub Sponsor, Watch, Fork and Stars](2023/13.md) | 24-4-2023 | [✅](https://www.codu.co/articles/learn-more-about-github-sponsor-watch-fork-and-stars-i7i9q8in) | [✅](https://dev.to/keracudmore/learn-more-about-github-sponsor-watch-fork-and-stars-1ppj) | [✅](https://kera-cudmore.hashnode.dev/learn-more-about-github-sponsor-watch-fork-and-stars) | ✅ | ✅ | |
 | 12 | [5 Weather APIs for a Rainy Day Project](2023/12.md) | 22-4-2023 | [✅](https://www.codu.co/articles/5-weather-apis-for-a-rainy-day-project-_pni6rxz) | [✅](https://dev.to/keracudmore/5-weather-apis-for-a-rainy-day-project-flg) | [✅](https://kera-cudmore.hashnode.dev/5-weather-apis-for-a-rainy-day-project) | ✅ | ✅ | |
 | 11 | [Podcasts for JavaScript & ReactJS Developers](2023/11.md) | 20-4-2023 | [✅](https://www.codu.co/articles/podcasts-for-javascript-reactjs-developers-mbjm0lby) | [✅](https://dev.to/keracudmore/podcasts-for-javascript-reactjs-developers-iod)| [✅](https://kera-cudmore.hashnode.dev/podcasts-for-javascript-reactjs-developers) | | ✅ | |
