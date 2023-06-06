@@ -18,6 +18,7 @@ Follow me on the following platforms:
 
 | no. | Article | Published |  Codú | Dev.to | Hashnode | LinkedIn | Twitter | Notes |
 | :--- | :---: | :---: | :---: |:---: | :---: | :--- | :--- | :--- |
+| 18 | [Using the GROW Model to Set Learning Goals](2023/18.md)| 6-6-2023 | [✅](https://www.codu.co/articles/using-the-grow-model-to-set-learning-goals-kj8qr9zl) | [✅](https://dev.to/keracudmore/using-the-grow-model-to-set-learning-goals-3ai5) | [✅](https://kera-cudmore.hashnode.dev/using-the-grow-model-to-set-learning-goals) | ✅ | ✅ | |
 | 17| [GitHub Slash Commands](2023/17.md) | 4-5-2023 | [✅](https://www.codu.co/articles/github-slash-commands-3fgoxrzq) | [✅](https://dev.to/keracudmore/github-slash-commands-goj) | [✅](https://kera-cudmore.hashnode.dev/github-slash-commands) | ✅ | ✅ | |
 | 16 | [View your Development Site on your own Devices!](2023/16.md) | 2-5-2023 | [✅](https://www.codu.co/articles/view-your-development-site-on-your-own-devices-rm9ywwzr) | [✅](https://dev.to/keracudmore/view-your-development-site-on-your-own-devices-3hpo) | [✅](https://kera-cudmore.hashnode.dev/view-your-development-site-on-your-own-devices) | ✅ | ✅ |  |
 | 15 | [5 Joke APIs to tickle your fancy](2-23/15.md) | 27-4-2023 | [✅](https://www.codu.co/articles/5-joke-apis-to-tickle-your-fancy-a1csxdks) | [✅](https://dev.to/keracudmore/5-joke-apis-to-tickle-your-fancy-11f6) | [✅](https://kera-cudmore.hashnode.dev/5-joke-apis-to-tickle-your-fancy) | ✅ | ✅ | |
