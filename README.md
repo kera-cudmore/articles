@@ -18,6 +18,7 @@ Follow me on the following platforms:
 
 | no. | Article | Published |  Codú | Dev.to | Hashnode | LinkedIn | Twitter | Notes |
 | ---: | :--- | :---: | :---: |:---: | :---: | :--- | :--- | :--- |
+| 20 | [5 Sites to Hone Your UX Skills](2023/20.md) | 13-6-2023 | [✅](https://www.codu.co/articles/5-sites-to-hone-your-ux-skills-rbxnjxgs) | [✅](https://dev.to/keracudmore/5-sites-to-hone-your-ux-skills-4i1h) | [✅](https://kera-cudmore.hashnode.dev/5-sites-to-hone-your-ux-skills) | ✅  | ✅ | |
 | 19 | [10 sites to Level Up Your UI Skills](2023/19.md) | 7-6-2023| [✅](https://www.codu.co/articles/10-sites-to-level-up-your-ui-skills-5axohcmq) | [✅](https://dev.to/keracudmore/10-sites-to-level-up-your-ui-skills-3e9m) | [✅](https://kera-cudmore.hashnode.dev/10-sites-to-level-up-your-ui-skills?showSharer=true) | ✅ | ✅ | |
 | 18 | [Using the GROW Model to Set Learning Goals](2023/18.md)| 6-6-2023 | [✅](https://www.codu.co/articles/using-the-grow-model-to-set-learning-goals-kj8qr9zl) | [✅](https://dev.to/keracudmore/using-the-grow-model-to-set-learning-goals-3ai5) | [✅](https://kera-cudmore.hashnode.dev/using-the-grow-model-to-set-learning-goals) | ✅ | ✅ | |
 | 17| [GitHub Slash Commands](2023/17.md) | 4-5-2023 | [✅](https://www.codu.co/articles/github-slash-commands-3fgoxrzq) | [✅](https://dev.to/keracudmore/github-slash-commands-goj) | [✅](https://kera-cudmore.hashnode.dev/github-slash-commands) | ✅ | ✅ | |
