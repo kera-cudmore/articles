@@ -18,6 +18,7 @@ Follow me on the following platforms:
 
 | no. | Article | Published |  Codú | Dev.to | Hashnode | LinkedIn | Twitter | Threads | Notes |
 | ---: | :--- | :---: | :---: |:---: | :---: | :--- | :--- | :--- | :--- |
+| 25 | [What are node_modules in React?](2023/25.md) | 24-07-2023 | [✅](https://www.codu.co/articles/what-are-node_modules-in-react-qoyt-dct) | [✅](https://dev.to/keracudmore/what-are-nodemodules-in-react-4pc8) | [✅](https://kera-cudmore.hashnode.dev/what-are-nodemodules-in-react) | ✅ | ✅ | | |
 | 24 | [Podcasts for Pythonistas 🐍](2023/24.md) | 17-07-2023 | [✅](https://www.codu.co/articles/podcasts-for-pythonistas-ypmudral) | [✅](https://dev.to/keracudmore/podcasts-for-pythonistas-5g42) | [✅](https://kera-cudmore.hashnode.dev/podcasts-for-pythonistas) | ✅ | ✅ | ✅ | |
 | 23 | [👩🏻‍💻 Favicon Generators](2023/23.md) | 03-07-2023 | [✅](https://www.codu.co/articles/favicon-generators-pz7fumxk) | [✅](https://dev.to/keracudmore/favicon-generators-k45) | [✅](https://kera-cudmore.hashnode.dev/favicon-generators) | ✅ | ✅ |  | |
 | 22 | [Create a workflow to display your latest articles on your GitHub profile](2023/22.md) | 20-6-2023 | [✅](https://www.codu.co/articles/create-a-workflow-to-display-your-latest-articles-on-your-github-profile-55nybm2f) | [✅](https://dev.to/keracudmore/create-a-workflow-to-display-your-latest-articles-on-your-github-profile-341k) | [✅](https://kera-cudmore.hashnode.dev/create-a-workflow-to-display-your-latest-articles-on-your-github-profile) | ✅ | ✅ | | |
