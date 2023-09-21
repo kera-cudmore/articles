@@ -18,6 +18,8 @@ Follow me on the following platforms:
 
 | no. | Article | Published |  Codú | Dev.to | Hashnode | LinkedIn | Twitter | Instagram | Threads | Notes |
 | ---: | :--- | :---: | :---: |:---: | :---: | :--- | :--- | :--- | :--- | :--- |
+| 28 | [Spaces vs Tabs: The Great Python Debate](2023/28.md) | 19-9-23 | [✅](https://www.codu.co/articles/spaces-vs-tabs-the-great-python-debate-1mkkekr9) | | | ✅ | | | | |
+| 27 | [Hacktoberfest and Open Source](2023/27.md) | 12-9-2023 | [✅](https://www.codu.co/articles/hacktoberfest-and-open-source-1gf15pbr) | | | ✅ | | | | |
 | 26 | [Brag documents & why you should have one!](2023/26.md) | 10-08-2023 | [✅](https://www.codu.co/articles/brag-documents-why-you-should-have-one-pprkh_k9) | [✅](https://dev.to/keracudmore/brag-documents-why-you-should-have-one-3ldn) | [✅](https://kera-cudmore.hashnode.dev/brag-documents-why-you-should-have-one) | ✅ | ✅ | ✅ | ✅ | |
 | 25 | [What are node_modules in React?](2023/25.md) | 24-07-2023 | [✅](https://www.codu.co/articles/what-are-node_modules-in-react-qoyt-dct) | [✅](https://dev.to/keracudmore/what-are-nodemodules-in-react-4pc8) | [✅](https://kera-cudmore.hashnode.dev/what-are-nodemodules-in-react) | ✅ | ✅ | | | |
 | 24 | [Podcasts for Pythonistas 🐍](2023/24.md) | 17-07-2023 | [✅](https://www.codu.co/articles/podcasts-for-pythonistas-ypmudral) | [✅](https://dev.to/keracudmore/podcasts-for-pythonistas-5g42) | [✅](https://kera-cudmore.hashnode.dev/podcasts-for-pythonistas) | ✅ | ✅ | ✅ |  ✅ | |
