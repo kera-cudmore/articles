@@ -18,6 +18,8 @@ Follow me on the following platforms:
 
 | no. | Article | Published |  Codú | Dev.to | Hashnode | LinkedIn | Twitter | Instagram | Threads | Notes |
 | ---: | :--- | :---: | :---: |:---: | :---: | :--- | :--- | :--- | :--- | :--- |
+| 30 | [How to add budget alerts to your AWS account](2023/30.md) | 04-12-2023 | [✅](https://www.codu.co/articles/how-to-add-budget-alerts-to-your-aws-account-iducin-r) | [✅](https://dev.to/keracudmore/how-to-add-budget-alerts-to-your-aws-account-2e3g) | [✅](https://kera-cudmore.hashnode.dev/how-to-add-budget-alerts-to-your-aws-account) | ✅ | | | | | |
+| 29 | [Advent of Code](2023/29.md) | 01-12-2023 | [✅](https://www.codu.co/articles/advent-of-code-i6-bg4y8) | [✅](https://dev.to/keracudmore/advent-of-code-4338) | [✅](https://kera-cudmore.hashnode.dev/advent-of-code) | ✅ |  | | | | |
 | 28 | [Spaces vs Tabs: The Great Python Debate](2023/28.md) | 19-9-23 | [✅](https://www.codu.co/articles/spaces-vs-tabs-the-great-python-debate-1mkkekr9) | [✅](https://dev.to/keracudmore/spaces-vs-tabs-the-great-python-debate-b79) | [✅](https://kera-cudmore.hashnode.dev/spaces-vs-tabs-the-great-python-debate) | ✅ | | | | |
 | 27 | [Hacktoberfest and Open Source](2023/27.md) | 12-9-2023 | [✅](https://www.codu.co/articles/hacktoberfest-and-open-source-1gf15pbr) | | | ✅ | | | | |
 | 26 | [Brag documents & why you should have one!](2023/26.md) | 10-08-2023 | [✅](https://www.codu.co/articles/brag-documents-why-you-should-have-one-pprkh_k9) | [✅](https://dev.to/keracudmore/brag-documents-why-you-should-have-one-3ldn) | [✅](https://kera-cudmore.hashnode.dev/brag-documents-why-you-should-have-one) | ✅ | ✅ | ✅ | ✅ | |
