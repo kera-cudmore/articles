@@ -12,7 +12,13 @@ Follow me on the following platforms:
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin'>](https://www.linkedin.com/in/keracudmore/)
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter">](https://twitter.com/Keracudmore)
 
+## 2024
 
+| no. | Article | Published |  Codú | Dev.to | Hashnode | LinkedIn | Twitter | Instagram | Threads | Notes |
+| ---: | :--- | :---: | :---: |:---: | :---: | :--- | :--- | :--- | :--- | :--- |
+| 1 | [Create sub-issues in GitHub issues](2024/1.md) | 08-01-2024 | [✅](https://www.codu.co/articles/create-sub-issues-in-github-issues-mkxdx647) | [✅](https://dev.to/keracudmore/create-sub-issues-in-github-issues-409m) | [✅](https://kera-cudmore.hashnode.dev/create-sub-issues-in-github-issues) | ✅ |  |  |  |  |
+
+---
 
 ## 2023
 
