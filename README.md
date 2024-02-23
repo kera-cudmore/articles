@@ -16,8 +16,8 @@ Follow me on the following platforms:
 
 | no. | Article | Published |  Codú | Dev.to | Hashnode | LinkedIn | Twitter | Instagram | Threads | Notes |
 | ---: | :--- | :---: | :---: |:---: | :---: | :--- | :--- | :--- | :--- | :--- |
-| 4 | 22-02-2024 | [Linkedin Profile: Recommendations](2024/4.md) | [✅](https://www.codu.co/articles/linkedin-profile-recommendations-9qedqbja) | | | ✅ | | | | |
-| 3 | 21-02-2024 | [Linkedin Profile: Projects](2024/3.md) | [✅](https://www.codu.co/articles/linkedin-profile-projects-n6uqd_6j) | | | ✅ | | | | |
+| 4 | [Linkedin Profile: Recommendations](2024/4.md) | 22-02-2024 | [✅](https://www.codu.co/articles/linkedin-profile-recommendations-9qedqbja) | | | ✅ | | | | |
+| 3 | [Linkedin Profile: Projects](2024/3.md) | 21-02-2024 | [✅](https://www.codu.co/articles/linkedin-profile-projects-n6uqd_6j) | | | ✅ | | | | |
 | 2 | [Podcasts for Django Developers](2024/2.md) | 15-01-2024 | [✅](https://www.codu.co/articles/podcasts-for-django-developers-gxfqranh) | |  |  |  |  |  |  |
 | 1 | [Create sub-issues in GitHub issues](2024/1.md) | 08-01-2024 | [✅](https://www.codu.co/articles/create-sub-issues-in-github-issues-mkxdx647) | [✅](https://dev.to/keracudmore/create-sub-issues-in-github-issues-409m) | [✅](https://kera-cudmore.hashnode.dev/create-sub-issues-in-github-issues) | ✅ |  |  |  |  |
 
